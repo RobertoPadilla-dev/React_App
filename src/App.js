@@ -16,9 +16,9 @@ function App() {
   },
   {
     equipo: "Programación",
-    foto: "https://github.com/genesysaluralatam.png",
-    nombre: "Genesys Rondón",
-    puesto: "Desarrolladora de software e instructora"
+    foto: "https://github.com/RobertoPadilla-dev.png",
+    nombre: "Roberto Padilla",
+    puesto: "Desarrollador de software e instructor"
   },
   {
     equipo: "UX y Diseño",

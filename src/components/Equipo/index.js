@@ -8,7 +8,6 @@ const Equipo = (props) => {
     const obj = {
         backgroundColor: colorSecundario
     }
-    console.log(colaboradores.length > 0)
 
     const estiloTitulo = { borderColor: colorPrimario }
 
